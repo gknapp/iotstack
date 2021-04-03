@@ -1,0 +1,1 @@
+//nas.lan/nas /mnt/nas cifs credentials=/home/pi/.smb,iocharset=utf8,noperm,uid=$(id -u),gid=$(id -g),x-systemd.automount 0 0
